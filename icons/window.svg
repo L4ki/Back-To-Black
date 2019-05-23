@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="100%"
+   height="100%"
+   sodipodi:docname="window.svg">
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="7.8632731"
+     inkscape:cx="-46.307296"
+     inkscape:cy="-1.9596496"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3046"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <g
+     id="window-close">
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect3763"
+       style="fill:#566060;fill-opacity:0;stroke:none"
+       d="M 0,0 22,0 22,22 0,22 z" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:label="Capa 1"
+       id="layer1"
+       transform="matrix(0.87855142,0,0,0.87855142,1.2956548,-903.96734)">
+      <g
+         transform="matrix(0.9157823,0,0,0.9157823,-530.08465,471.22303)"
+         id="layer1-6"
+         inkscape:label="Capa 1"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           transform="matrix(0.14300539,0,0,0.14300539,554.04072,610.29161)"
+           sketch:type="MSShapeGroup"
+           id="g5548">
+          <g
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:label="Layer 1"
+             id="layer1-9"
+             transform="matrix(16.049617,0,0,16.049617,-12213.761,-3046.8513)">
+            <g
+               style="fill:#ffffff;fill-opacity:1"
+               transform="matrix(0.37907185,0,0,0.37907185,615.60988,-10.010196)"
+               id="layer1-2"
+               inkscape:label="Capa 1">
+              <g
+                 id="remove11"
+                 sketch:type="MSLayerGroup"
+                 transform="matrix(0.20663505,0,0,0.20663505,416.2249,531.51293)"
+                 style="fill:#ffffff;fill-opacity:1">
+                <path
+                   d="m 68.988857,47.999993 23.953,-23.953 c 1.521,-1.52 2.281,-3.367 2.281,-5.54 0,-2.173 -0.761,-4.019 -2.281,-5.54 l -11.08,-11.0809998 c -1.521,-1.52099998 -3.367,-2.28099998 -5.539,-2.28099998 -2.174,0 -4.02,0.76 -5.541,2.28099998 l -23.953,23.9529998 -23.953,-23.9529998 c -1.52,-1.52099998 -3.367,-2.28099998 -5.54,-2.28099998 -2.172,0 -4.019,0.76 -5.54,2.28099998 L 0.7148571,12.966993 c -1.51999992,1.52 -2.2809999,3.367 -2.2809999,5.54 0,2.173 0.75999998,4.019 2.2809999,5.54 l 23.9529999,23.953 -23.9529999,23.953 c -1.51999992,1.521 -2.2809999,3.367 -2.2809999,5.54 0,2.173 0.75999998,4.019 2.2809999,5.54 l 11.0809999,11.08 c 1.521,1.521 3.368,2.281 5.54,2.281 2.173,0 4.019,-0.761 5.54,-2.281 l 23.953,-23.953 23.954,23.953 c 1.521,1.521 3.366,2.281 5.541,2.281 2.172,0 4.019,-0.761 5.539,-2.281 l 11.079,-11.08 c 1.521,-1.52 2.281,-3.367 2.281,-5.54 0,-2.173 -0.76,-4.019 -2.281,-5.54 l -23.953,-23.953 0,0 z"
+                   id="path1028"
+                   sketch:type="MSShapeGroup"
+                   inkscape:connector-curvature="0"
+                   style="fill:#a3b5bb;fill-opacity:1" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="window-pin">
+    <g
+       style="fill:none;stroke:none"
+       inkscape:label=""
+       transform="matrix(1.1111111,0,0,1.1111111,10.755556,-20.722222)"
+       id="e">
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4145"
+         cx="-27.5"
+         cy="42.5"
+         r="4.5" />
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(0.7125,0,0,0.7125,-1.3937488,-2.5937493)"
+       id="e-5">
+      <circle
+         style="opacity:0.8;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4145-9"
+         cx="-25.833334"
+         cy="40.833332"
+         r="6" />
+    </g>
+  </g>
+  <g
+     transform="translate(12.799999,-0.4999998)"
+     id="window-unpin">
+    <g
+       style="fill:none;stroke:none"
+       inkscape:label=""
+       transform="matrix(1.1111111,0,0,1.1111111,10.755556,-20.722222)"
+       id="e-0">
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4145-2"
+         cx="-27.5"
+         cy="42.5"
+         r="4.5" />
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(0.7125,0,0,0.7125,-1.3937488,-2.5937493)"
+       id="e-5-5">
+      <circle
+         style="opacity:1;fill:#aababe;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4145-9-6"
+         cx="-25.833334"
+         cy="40.833332"
+         r="6" />
+    </g>
+  </g>
+</svg>
