@@ -14,9 +14,9 @@
    height="128"
    id="svg2396"
    sodipodi:version="0.32"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.0"
-   sodipodi:docname="scrollwidget.svgz"
+   sodipodi:docname="scrollwidget.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape">
   <defs
      id="defs2398">
@@ -207,22 +207,22 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#989898"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="64.337125"
-     inkscape:cy="110.28927"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="86.134473"
+     inkscape:cy="81.753186"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="1112"
-     inkscape:window-height="708"
-     inkscape:window-x="824"
-     inkscape:window-y="241"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2401">
     <rdf:RDF>
@@ -231,6 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
