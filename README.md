@@ -15,3 +15,8 @@ Changelog: 28.07.2019.
 Added icona: start.svg
 
 Modified icon: system.svg
+
+Changelog: 05.08.2019.
+-----------------------
+
+Modified widget: line.svg
