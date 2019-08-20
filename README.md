@@ -20,3 +20,10 @@ Changelog: 05.08.2019.
 -----------------------
 
 Modified widget: line.svg
+
+Changelog: 20.08.2019.
+----------------------
+
+Modified icon: system.svg, start.svg
+
+Modified widget: scrollbar.svg, tasks.svg
