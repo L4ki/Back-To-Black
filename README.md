@@ -27,3 +27,9 @@ Changelog: 20.08.2019.
 Modified icon: system.svg, start.svg
 
 Modified widget: scrollbar.svg, tasks.svg, busywidget
+
+
+Changelog: 10.09.2019.
+----------------------
+
+Icons added: battery.svg, input.svg
