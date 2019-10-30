@@ -33,3 +33,14 @@ Changelog: 10.09.2019.
 ----------------------
 
 Icons added: battery.svg, input.svg
+
+Changelog: 30.10.2019.
+----------------------
+
+Icon changed: start.svg
+
+Icon Removed: preferences-activities.svg
+
+Added widgets: action-overlays.svg, listitem.svg
+
+Widgets correction: bar_meter_vertical.svg, clock.svg
